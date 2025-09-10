@@ -231,7 +231,7 @@ export default function Component() {
           left: 0;
           right: 0;
           bottom: 0;
-          background-image: url('/wave.png');
+          background-image: url('/qr-code.png');
           background-repeat: repeat;
           background-size: 100px 100px;
           transform: rotate(45deg);
