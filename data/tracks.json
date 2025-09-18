@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1758171323708,
+    "songName": "Test Song",
+    "userName": "Test User",
+    "fileName": "Test_User_Test_Song_1758171323708.mp3",
+    "filePath": "/uploads/Test_User_Test_Song_1758171323708.mp3",
+    "fileSize": "0.0 MB",
+    "duration": "0:00",
+    "uploadDate": "2025-09-18",
+    "genre": "Unknown"
+  },
+  {
+    "id": 1758171799708,
+    "songName": "aa",
+    "userName": "dvdroom",
+    "fileName": "dvdroom_aa_1758171799708.wav",
+    "filePath": "/uploads/dvdroom_aa_1758171799708.wav",
+    "fileSize": "61.5 MB",
+    "duration": "0:00",
+    "uploadDate": "2025-09-18",
+    "genre": "Unknown"
+  },
+  {
+    "id": 1758172005349,
+    "songName": "Test Duration",
+    "userName": "Test User",
+    "fileName": "Test_User_Test_Duration_1758172005349.wav",
+    "filePath": "/uploads/Test_User_Test_Duration_1758172005349.wav",
+    "fileSize": "61.5 MB",
+    "duration": "2:48",
+    "uploadDate": "2025-09-18",
+    "genre": "Unknown"
+  }
+]
